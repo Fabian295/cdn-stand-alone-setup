@@ -1,0 +1,20 @@
+{
+  "name": "stand-alone-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabian295/stand-alone-setup.git"
+  },
+  "keywords": [],
+  "author": "Fabian Kanhai <fabiankanhai70@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fabian295/stand-alone-setup/issues"
+  },
+  "homepage": "https://github.com/Fabian295/stand-alone-setup#readme"
+}
