@@ -8,8 +8,8 @@ we as developers have to know what is happening behind the curtains.
 ### Set up
 This project will be accomplished with CDN's for React, ReactDOM annd Babel. I have an other project
 which does everything from scratch. In that project we will be setting up Webpack(bundler) 
-, Gulp(taskrunner) and Babel(transpiler) completely really get to know what is underfrom scratch, 
-so will be in full control and really get to see what is going on under the hood without "create-react-app".
+, Gulp(taskrunner) and Babel(transpiler) completely from scratch. 
+This way we will be in full control and really get to see what is going on under the hood, without "create-react-app".
 
 ### The CDN's which we will be using
 Besides the CDN for React and ReactDOM, we will be also using the CDN from Babel.
